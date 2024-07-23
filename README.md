@@ -40,3 +40,11 @@ Workflow for Managing Patient Appointments and Treatment via Smart Contract
 - **Security**: Using Cardano's blockchain ensures that patient treatment data is secure and immutable.
 - **Distributed Storage**: Using IPFS for distributed data storage reduces the risk of data loss.
 - **Easy Access**: Patients can access and view their treatment information at any time, ensuring their rights and transparency.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+For any questions or support, please contact [careblock.io@gmail.com](mailto:careblock.io@gmail.com).
